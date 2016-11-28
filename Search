@@ -1,0 +1,29 @@
+# 찾기
+
+
+#### 찾아봐
+
+guard
+
+tableView 하단에 view 두면 데이터가 있는 cell 만 화면에 나왔던 것 같은데, 다시 찾아보자
+
+.map  .flatMap
+
+AlertController 사용하기
+
+closure ~ self 관계
+
+extension
+
+tableView - canMoveRowAt ,  moveRowAtSourceIndexPath
+
+dynamic
+
+UIView.animate - damping
+
+
+
+
+#### 찾았어
+
+closure 축약
